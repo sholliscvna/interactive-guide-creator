@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Training Guide Creator",
+  "description": "An interactive LMS creation tool where users can upload images to create a training guide flip book, placing markers with pop-up content and notes on each page.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
